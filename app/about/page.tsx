@@ -9,7 +9,7 @@ function About() {
       <div className="flex flex-col md:flex-row m-10 md:m-20 justify-between">
         <div className="flex flex-col gap-6 md:gap-10 w-full md:w-[40%]">
           <h1 className="text-4xl md:text-5xl font-title">
-            Hi, I'm <br /> Muhammad Usman, <br />
+            Hi, I&apos;m <br /> Muhammad Usman, <br />
             Web Developer
           </h1>
           <p className="text-base md:text-lg font-title text-[#606060]">

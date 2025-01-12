@@ -10,7 +10,7 @@ export default function App() {
       <div className="flex flex-col md:flex-row px-6 md:px-20 items-center h-[70vh] gap-8 md:gap-16">
         <div className="w-full md:w-[45%] text-center md:text-left">
           <h1 className="text-4xl md:text-6xl font-title text-[#181717]">
-            Hello, I'm <br /> Muhammad Usman.
+            Hello, I&apos;m <br /> Muhammad Usman.
           </h1>
         </div>
         <div className="w-full md:w-[55%] flex text-lg md:text-xl mt-8 md:mt-24">
